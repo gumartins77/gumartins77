@@ -1,4 +1,4 @@
-### Hello, my name is Gustavo Martins dos Santos, Dev Back End!
+### Hello, my name is Gustavo Martins dos Santos, Dev Full-Stack!
 
 ### Welcome to my Github profile!
 
